@@ -46,16 +46,23 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sengardeep&show_icons=true&theme=radical&border_radius=15&count_private=true&include_all_commits=true&hide=issues" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengardeep&layout=compact&theme=radical&langs_count=10&border_radius=15" width="48%" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sengardeep&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengardeep&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengardeep&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="98%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengardeep&theme=radical" width="70%" />
-</p>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=react-dark&area=true&hide_border=true&radius=15" width="98%" />
+
+</div>
 
 ---
 
