@@ -69,9 +69,7 @@
 
 ### 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=react-dark" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=tokyo-night" />
 
 
 ---
@@ -79,8 +77,9 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/sengardeep/sengardeep/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sengardeep/sengardeep/output/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 ## 🏅 Achievements & Contributions
