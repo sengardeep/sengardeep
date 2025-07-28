@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch: # Allow manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ Required to allow pushing files
 
     steps:
       - uses: actions/checkout@v3
@@ -18,8 +21,8 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Push generated snake
-        uses: EndBug/add-and-commit@v9
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          commit_message: "📤 Generate contribution snake"
           branch: output
-          message: "Generate GitHub contribution snake"
