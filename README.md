@@ -45,39 +45,31 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sengardeep&show_icons=true&theme=radical&border_radius=15&count_private=true&include_all_commits=true&hide=issues" width="48%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengardeep&layout=compact&theme=radical&langs_count=10&border_radius=15" width="48%" />
+<!-- GitHub Stats and Top Languages -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengardeep&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sengardeep&show_icons=true&theme=radical&border_radius=15&count_private=true&include_all_commits=true&hide=issues" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengardeep&layout=compact&theme=radical&langs_count=10&border_radius=15" width="45%" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengardeep&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
 </p>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=react-dark&area=true&hide_border=true&radius=15" width="98%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=react-dark&area=true&hide_border=true&radius=15" width="90%" />
+</p>
 
-</div>
-
----
+----
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sengardeep&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
-
----
-
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=tokyo-night" />
-
 
 ---
 
