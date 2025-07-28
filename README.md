@@ -70,15 +70,16 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sengardeep&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=react-dark" />
 </p>
+
 
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sengardeep/sengardeep/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/sengardeep/sengardeep/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
