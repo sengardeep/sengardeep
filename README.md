@@ -45,6 +45,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<hr>
+
+
 ## 📊 GitHub Stats & Activity
 
 <!-- GitHub Stats and Top Languages -->
@@ -53,14 +56,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengardeep&layout=compact&theme=radical&langs_count=10&border_radius=15" width="45%" />
 </p>
 
-<!-- Streak Stats -->
+<br>
+<hr>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sengardeep&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sengardeep&theme=react-dark&area=true&hide_border=true&radius=15" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sengardeep&theme=dracula" />
 </p>
 
 ----
@@ -83,7 +82,7 @@
 ## 🏅 Achievements & Contributions
 
 - 💡 Built strong foundations in **DSA** and **Competitive Programming**
-- 🧠 Solved numerous DSA problems on coding platforms like LeetCode, GFG, and HackerRank
+- 🧠 Solved numerous DSA problems on coding platforms like LeetCode, GFG, and Codeforces.
 - 🛠️ Worked on real-world **Full Stack Projects** using Node.js, MongoDB, Express, PostgreSQL, and Prisma
 - 🌱 Continuously learning and improving in the **MERN Stack** ecosystem
 - 🚀 Passionate about open source, clean code, and writing scalable backend APIs
