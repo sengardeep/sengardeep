@@ -1,16 +1,10 @@
 <h1 align="center">👋 Hey there, I'm Deepraj Singh Sengar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7D3&center=true&vCenter=true&width=435&lines=Hola+amigo%2C+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%B9%E0%A5%8B%3F+%E0%A4%A0%E0%A5%80%E0%A4%95+%E0%A4%B9%E0%A5%8B%3F+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-
----
-
 ## 🎓 About Me
 
 - 🎓 Pursuing **B.Tech** from Kamla Nehru Institute of Technology, Sultanpur  
 - 🔍 Passionate about **Data Structures & Algorithms** and **Competitive Programming**  
-- 🌱 Currently learning **React.js** and polishing **Full Stack Development (MERN + Prisma + PostgreSQL)**  
+- 🌱 Currently learning **React.js** and polishing **Full Stack Development**  
 - 💻 Love building real-world projects that solve actual problems  
 - 🧠 Always curious to learn new technologies and best practices  
 
@@ -98,7 +92,7 @@
 
 ## 🤖 Fun Fact
 
-> “If debugging is the process of removing bugs, then programming must be the process of putting them in.” 😄
+> “If debugging is the process of removing bugs, then programming must be the process of putting them in.” 
 
 ---
 
